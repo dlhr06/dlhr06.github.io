@@ -1,8 +1,13 @@
-# Portafolio Adaptable (Responsive) con Bootstrap 5
+# Portafolio Adaptable (Responsive) con Bootstrap 5 📂🖊🌐
 
 Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
 
-El propósito de esta página web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia. Incluye una descripción breve de su motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
+El propósito de esta página web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia. Las secciones de este portafolio son las siguientes. 
+## 1. Sobre mi 👩🏽‍💻
+## 2. Experiencia 👩🏽‍💼📇
+## 3. Proyectos recientes 💻📑
+## 4. Testimonios 🤜🏽🤛🏽
+## 5. Contacto 📧📲
 
 También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
 
@@ -10,23 +15,23 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![Primera parte de la página web](imagenes/SS1.png)
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![Experiencia](imagenes/SS2.png)
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![Proyectos](imagenes/SS3.png)
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![Testimonios](imagenes/SS4.png)
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![Contacto](imagenes/SS5.png)
 
 ## Tecnologías
 
