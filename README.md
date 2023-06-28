@@ -9,9 +9,9 @@ El propósito de esta página web es mostrar el portafolio de proyectos de un(a)
 ## 4. Testimonios 🤜🏽🤛🏽
 ## 5. Contacto 📧📲
 
-### Demo Link
+## Demo Link
 
-Con el siguiente link puedes visualizar la [página web](https://dlhr06.github.io/)
+Con el siguiente link puedes visualizar la [página web] del portafolio (https://dlhr06.github.io/) 👩🏽‍💻💻🖇
 
 También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
 
